@@ -5,7 +5,7 @@
 
 <p>
 <div align="center">
-   <img width="50%"/ src="samples\md info\output.png"></a>
+   <img width="80%"/ src="samples\md info\output.png"></a>
 
 </div>
 </p>
