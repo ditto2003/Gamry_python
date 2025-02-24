@@ -13,7 +13,7 @@
 
 ## <div align="center">Quick Start Examples</div>
 
-A python example [Quick Start Example](Pstat.py) is prepared to implement the potential static measurement using Gamry customized signal excitation. It also could convert to galvanostatic method.
+A python example [Python Code](Pstat.py) is prepared to implement the potential static measurement using Gamry customized signal excitation. It also could convert to galvanostatic method.
 
 
 
